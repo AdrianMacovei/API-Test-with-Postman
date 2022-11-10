@@ -10,7 +10,7 @@ Need to install Postman from https://www.postman.com/downloads/
 
 1. Create a folder for this project
 
-2. Clone the repo on your divice using `git clone https://github.com/AdrianMacovei/API-Test-with-Postman.git`
+2. Clone the repo on your divice using in cmd `git clone https://github.com/AdrianMacovei/API-Test-with-Postman.git`
 
 3. Open Postman
 
