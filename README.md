@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adrianmacovei&label=Profile%20views&color=0e75b6&style=flat" alt="adrianmacovei" /> </p>
 
-- 🔭 I’m currently working on **Selenium BDD**
+- 🔭 I’m currently working on **API Testing**
 
 - 🌱 I’m currently learning **Selenium, Behave, Postman, Manual Testing**
 
